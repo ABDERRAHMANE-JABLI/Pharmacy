@@ -1,0 +1,559 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BFAF084D-B19E-41D8-944A-DDEBB2647513}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>pharmacie</RootNamespace>
+    <AssemblyName>pharmacie</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FontAwesome.Sharp, Version=5.15.4.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.15.4\lib\net45\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="classes\achat.cs" />
+    <Compile Include="classes\fournisseur.cs" />
+    <Compile Include="classes\vent.cs" />
+    <Compile Include="classes\Data_access.cs" />
+    <Compile Include="classes\Client.cs" />
+    <Compile Include="classes\Data_Validation.cs" />
+    <Compile Include="classes\famille.cs" />
+    <Compile Include="classes\forme.cs" />
+    <Compile Include="classes\medicament.cs" />
+    <Compile Include="classes\parametre_app.cs" />
+    <Compile Include="classes\statistique.cs" />
+    <Compile Include="classes\utilisateur.cs" />
+    <Compile Include="form\add_achat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\add_achat.Designer.cs">
+      <DependentUpon>add_achat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\add_fournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\add_fournisseur.Designer.cs">
+      <DependentUpon>add_fournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\add_vent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\add_vent.Designer.cs">
+      <DependentUpon>add_vent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\add_famille.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\add_famille.Designer.cs">
+      <DependentUpon>add_famille.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\add_forme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\add_forme.Designer.cs">
+      <DependentUpon>add_forme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\add_medicament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\add_medicament.Designer.cs">
+      <DependentUpon>add_medicament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\add_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\add_user.Designer.cs">
+      <DependentUpon>add_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\backup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\backup.Designer.cs">
+      <DependentUpon>backup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\configu_serveur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\configu_serveur.Designer.cs">
+      <DependentUpon>configu_serveur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frm_achat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frm_achat.Designer.cs">
+      <DependentUpon>frm_achat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frm_fournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frm_fournisseur.Designer.cs">
+      <DependentUpon>frm_fournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frm_vent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frm_vent.Designer.cs">
+      <DependentUpon>frm_vent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frm_client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frm_client.Designer.cs">
+      <DependentUpon>frm_client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\add_client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\add_client.Designer.cs">
+      <DependentUpon>add_client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frm_famille.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frm_famille.Designer.cs">
+      <DependentUpon>frm_famille.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frm_forme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frm_forme.Designer.cs">
+      <DependentUpon>frm_forme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frm_medicament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frm_medicament.Designer.cs">
+      <DependentUpon>frm_medicament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frm_users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frm_users.Designer.cs">
+      <DependentUpon>frm_users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\imp_achat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\imp_achat.Designer.cs">
+      <DependentUpon>imp_achat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\imp_vent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\imp_vent.Designer.cs">
+      <DependentUpon>imp_vent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\rech_achat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\rech_achat.Designer.cs">
+      <DependentUpon>rech_achat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\imp_client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\imp_client.Designer.cs">
+      <DependentUpon>imp_client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\imp_fournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\imp_fournisseur.Designer.cs">
+      <DependentUpon>imp_fournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\info_achat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\info_achat.Designer.cs">
+      <DependentUpon>info_achat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\info_fournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\info_fournisseur.Designer.cs">
+      <DependentUpon>info_fournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\info_vent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\info_vent.Designer.cs">
+      <DependentUpon>info_vent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\info_medicament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\info_medicament.Designer.cs">
+      <DependentUpon>info_medicament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\info_patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\info_patient.Designer.cs">
+      <DependentUpon>info_patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\menu.Designer.cs">
+      <DependentUpon>menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\modif_client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\modif_client.Designer.cs">
+      <DependentUpon>modif_client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\modif_famille.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\modif_famille.Designer.cs">
+      <DependentUpon>modif_famille.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\modif_forme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\modif_forme.Designer.cs">
+      <DependentUpon>modif_forme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\modif_fournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\modif_fournisseur.Designer.cs">
+      <DependentUpon>modif_fournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\modif_medicament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\modif_medicament.Designer.cs">
+      <DependentUpon>modif_medicament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\rech_vent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\rech_vent.Designer.cs">
+      <DependentUpon>rech_vent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\recherche_achat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\recherche_achat.Designer.cs">
+      <DependentUpon>recherche_achat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\recherche_vent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\recherche_vent.Designer.cs">
+      <DependentUpon>recherche_vent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\statistique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\statistique.Designer.cs">
+      <DependentUpon>statistique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rapports\achat.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>achat.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rapports\client.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>client.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rapports\fournisseur.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>fournisseur.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rapports\vent.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>vent.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="form\add_achat.resx">
+      <DependentUpon>add_achat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\add_fournisseur.resx">
+      <DependentUpon>add_fournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\add_vent.resx">
+      <DependentUpon>add_vent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\add_famille.resx">
+      <DependentUpon>add_famille.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\add_forme.resx">
+      <DependentUpon>add_forme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\add_medicament.resx">
+      <DependentUpon>add_medicament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\add_user.resx">
+      <DependentUpon>add_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\backup.resx">
+      <DependentUpon>backup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\configu_serveur.resx">
+      <DependentUpon>configu_serveur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frm_achat.resx">
+      <DependentUpon>frm_achat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frm_fournisseur.resx">
+      <DependentUpon>frm_fournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frm_vent.resx">
+      <DependentUpon>frm_vent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frm_client.resx">
+      <DependentUpon>frm_client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\add_client.resx">
+      <DependentUpon>add_client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frm_famille.resx">
+      <DependentUpon>frm_famille.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frm_forme.resx">
+      <DependentUpon>frm_forme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frm_medicament.resx">
+      <DependentUpon>frm_medicament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frm_users.resx">
+      <DependentUpon>frm_users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\imp_achat.resx">
+      <DependentUpon>imp_achat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\imp_vent.resx">
+      <DependentUpon>imp_vent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\rech_achat.resx">
+      <DependentUpon>rech_achat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\imp_client.resx">
+      <DependentUpon>imp_client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\imp_fournisseur.resx">
+      <DependentUpon>imp_fournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\info_achat.resx">
+      <DependentUpon>info_achat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\info_fournisseur.resx">
+      <DependentUpon>info_fournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\info_vent.resx">
+      <DependentUpon>info_vent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\info_medicament.resx">
+      <DependentUpon>info_medicament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\info_patient.resx">
+      <DependentUpon>info_patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\menu.resx">
+      <DependentUpon>menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\modif_client.resx">
+      <DependentUpon>modif_client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\modif_famille.resx">
+      <DependentUpon>modif_famille.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\modif_forme.resx">
+      <DependentUpon>modif_forme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\modif_fournisseur.resx">
+      <DependentUpon>modif_fournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\modif_medicament.resx">
+      <DependentUpon>modif_medicament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\rech_vent.resx">
+      <DependentUpon>rech_vent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\recherche_achat.resx">
+      <DependentUpon>recherche_achat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\recherche_vent.resx">
+      <DependentUpon>recherche_vent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\statistique.resx">
+      <DependentUpon>statistique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="rapports\achat.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>achat.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rapports\client.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>client.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rapports\fournisseur.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>fournisseur.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rapports\vent.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>vent.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\bg-con.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo-Pharmacie.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg-pharma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg-jar4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-caduceus-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgpharmaciee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pharmacie-de-gard.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\head.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\360_F_336297902_l8fQ31MqfcBY8VFpOlArZFLlcps4Qqn2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,264 @@
+D:\mes projets\desktop\pharmacie\pharmacie\bin\Debug\pharmacie.exe.config
+D:\mes projets\desktop\pharmacie\pharmacie\bin\Debug\pharmacie.exe
+D:\mes projets\desktop\pharmacie\pharmacie\bin\Debug\pharmacie.pdb
+D:\mes projets\desktop\pharmacie\pharmacie\bin\Debug\FontAwesome.Sharp.dll
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.csproj.AssemblyReference.cache
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.Properties.Resources.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.csproj.GenerateResource.cache
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.csproj.CoreCompileInputs.cache
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.csproj.CopyComplete
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.exe
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.pdb
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.frm_client.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.add_client.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.modif_client.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.info_patient.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.menu.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.Login.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.parametre.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.configu_serveur.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.add_famille.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.frm_famille.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.modif_famille.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.add_forme.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.frm_forme.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.modif_forme.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.add_medicament.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.frm_medicament.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.info_medicament.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.modif_medicament.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.add_user.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.frm_users.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.statistique.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.backup.resources
+D:\mes projets\desktop\pharmacie\pharmacie\obj\Debug\pharmacie.form.restore.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\bin\Debug\pharmacie.exe.config
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\bin\Debug\pharmacie.exe
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\bin\Debug\pharmacie.pdb
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.add_famille.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.add_forme.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.add_medicament.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.add_user.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.backup.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.configu_serveur.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.frm_client.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.add_client.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.frm_famille.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.frm_forme.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.frm_medicament.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.frm_users.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.info_medicament.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.info_patient.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.Login.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.menu.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.modif_client.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.modif_famille.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.modif_forme.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.modif_medicament.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.parametre.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.restore.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.statistique.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.Properties.Resources.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.csproj.CopyComplete
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.exe
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.pdb
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.frm_vent.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.info_vent.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.add_vent.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.add_achat.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.add_fournisseur.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.frm_achat.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.frm_fournisseur.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.info_achat.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.info_fournisseur.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.modif_fournisseur.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.recherche_achat.resources
+C:\Users\HP\Desktop\Nouveau dossier\pharmacie\pharmacie\obj\Debug\pharmacie.form.recherche_vent.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\bin\Debug\pharmacie.exe.config
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\bin\Debug\pharmacie.exe
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\bin\Debug\pharmacie.pdb
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\bin\Debug\FontAwesome.Sharp.dll
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.csproj.AssemblyReference.cache
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.add_achat.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.add_fournisseur.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.add_vent.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.add_famille.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.add_forme.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.add_medicament.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.add_user.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.backup.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.configu_serveur.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.frm_achat.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.frm_fournisseur.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.frm_vent.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.frm_client.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.add_client.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.frm_famille.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.frm_forme.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.frm_medicament.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.frm_users.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.info_achat.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.info_fournisseur.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.info_vent.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.info_medicament.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.info_patient.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.Login.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.menu.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.modif_client.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.modif_famille.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.modif_forme.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.modif_fournisseur.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.modif_medicament.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.parametre.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.recherche_achat.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.recherche_vent.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.statistique.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.Properties.Resources.resources
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.csproj.GenerateResource.cache
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.csproj.CoreCompileInputs.cache
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.csproj.CopyComplete
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.exe
+D:\extracted\pharmacie v4\Nouveau dossier\pharmaciev4\pharmacie\obj\Debug\pharmacie.pdb
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\pharmacie.exe.config
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\pharmacie.exe
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\pharmacie.pdb
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.add_achat.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.add_fournisseur.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.add_vent.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.add_famille.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.add_forme.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.add_medicament.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.add_user.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.backup.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.configu_serveur.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.frm_achat.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.frm_fournisseur.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.frm_vent.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.frm_client.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.add_client.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.frm_famille.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.frm_forme.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.frm_medicament.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.frm_users.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.info_achat.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.info_fournisseur.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.info_vent.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.info_medicament.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.info_patient.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.Login.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.menu.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.modif_client.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.modif_famille.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.modif_forme.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.modif_fournisseur.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.modif_medicament.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.parametre.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.recherche_achat.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.recherche_vent.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.statistique.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.Properties.Resources.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.csproj.CopyComplete
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.exe
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.pdb
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\stdole.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.imp_client.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.imp_fournisseur.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.imp_vent.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.rech_achat.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.rech_vent.resources
+C:\Users\HP\Desktop\pharmaciev4\pharmacie\obj\Debug\pharmacie.form.imp_achat.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\pharmacie.exe.config
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\pharmacie.exe
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\pharmacie.pdb
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\CrystalDecisions.Shared.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\FontAwesome.Sharp.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\ShockwaveFlashObjects.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\stdole.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.csproj.AssemblyReference.cache
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.add_achat.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.add_fournisseur.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.add_vent.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.add_famille.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.add_forme.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.add_medicament.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.add_user.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.backup.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.configu_serveur.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.frm_achat.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.frm_fournisseur.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.frm_vent.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.frm_client.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.add_client.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.frm_famille.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.frm_forme.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.frm_medicament.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.frm_users.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.imp_achat.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.imp_vent.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.rech_achat.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.imp_client.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.imp_fournisseur.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.info_achat.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.info_fournisseur.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.info_vent.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.info_medicament.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.info_patient.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.Login.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.menu.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.modif_client.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.modif_famille.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.modif_forme.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.modif_fournisseur.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.modif_medicament.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.rech_vent.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.recherche_achat.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.recherche_vent.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.form.statistique.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.Properties.Resources.resources
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.csproj.GenerateResource.cache
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.csproj.CoreCompileInputs.cache
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.csproj.CopyComplete
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.exe
+D:\Nouveau_dossier2\pharmaciev5\pharmacie\obj\Debug\pharmacie.pdb
